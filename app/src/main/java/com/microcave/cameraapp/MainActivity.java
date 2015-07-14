@@ -20,7 +20,8 @@ import java.io.File;
 import java.util.ArrayList;
 import java.util.Timer;
 import java.util.TimerTask;
-
+// nothing to comit
+//
 public class MainActivity extends ActionBarActivity {
     public boolean serviceResult;
     public Boolean close = true;
